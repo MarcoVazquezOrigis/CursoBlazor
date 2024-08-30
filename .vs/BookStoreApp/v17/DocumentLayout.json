@@ -3,40 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Marco Chavez Vazquez\\Documents\\Git\\Capacitacion Blazor\\BookStoreApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{09B0377A-2648-40EA-AC1F-33139E201DCE}|BookStoreApp.API\\BookStoreApp.API.csproj|c:\\users\\marco chavez vazquez\\documents\\git\\capacitacion blazor\\bookstoreapp\\bookstoreapp.api\\data\\origisoperacionescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09B0377A-2648-40EA-AC1F-33139E201DCE}|BookStoreApp.API\\BookStoreApp.API.csproj|solutionrelative:bookstoreapp.api\\data\\origisoperacionescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{09B0377A-2648-40EA-AC1F-33139E201DCE}|BookStoreApp.API\\BookStoreApp.API.csproj|c:\\users\\marco chavez vazquez\\documents\\git\\capacitacion blazor\\bookstoreapp\\bookstoreapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{09B0377A-2648-40EA-AC1F-33139E201DCE}|BookStoreApp.API\\BookStoreApp.API.csproj|solutionrelative:bookstoreapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{09B0377A-2648-40EA-AC1F-33139E201DCE}|BookStoreApp.API\\BookStoreApp.API.csproj|c:\\users\\marco chavez vazquez\\documents\\git\\capacitacion blazor\\bookstoreapp\\bookstoreapp.api\\logs\\log-20240830.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{09B0377A-2648-40EA-AC1F-33139E201DCE}|BookStoreApp.API\\BookStoreApp.API.csproj|solutionrelative:bookstoreapp.api\\logs\\log-20240830.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{09B0377A-2648-40EA-AC1F-33139E201DCE}|BookStoreApp.API\\BookStoreApp.API.csproj|c:\\users\\marco chavez vazquez\\documents\\git\\capacitacion blazor\\bookstoreapp\\bookstoreapp.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{09B0377A-2648-40EA-AC1F-33139E201DCE}|BookStoreApp.API\\BookStoreApp.API.csproj|solutionrelative:bookstoreapp.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{09B0377A-2648-40EA-AC1F-33139E201DCE}|BookStoreApp.API\\BookStoreApp.API.csproj|c:\\users\\marco chavez vazquez\\documents\\git\\capacitacion blazor\\bookstoreapp\\bookstoreapp.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{09B0377A-2648-40EA-AC1F-33139E201DCE}|BookStoreApp.API\\BookStoreApp.API.csproj|solutionrelative:bookstoreapp.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{09B0377A-2648-40EA-AC1F-33139E201DCE}|BookStoreApp.API\\BookStoreApp.API.csproj|c:\\users\\marco chavez vazquez\\documents\\git\\capacitacion blazor\\bookstoreapp\\bookstoreapp.api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{09B0377A-2648-40EA-AC1F-33139E201DCE}|BookStoreApp.API\\BookStoreApp.API.csproj|solutionrelative:bookstoreapp.api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{09B0377A-2648-40EA-AC1F-33139E201DCE}|BookStoreApp.API\\BookStoreApp.API.csproj|c:\\users\\marco chavez vazquez\\documents\\git\\capacitacion blazor\\bookstoreapp\\bookstoreapp.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{09B0377A-2648-40EA-AC1F-33139E201DCE}|BookStoreApp.API\\BookStoreApp.API.csproj|solutionrelative:bookstoreapp.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{09B0377A-2648-40EA-AC1F-33139E201DCE}|BookStoreApp.API\\BookStoreApp.API.csproj|c:\\users\\marco chavez vazquez\\documents\\git\\capacitacion blazor\\bookstoreapp\\bookstoreapp.api\\bookstoreapp.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{09B0377A-2648-40EA-AC1F-33139E201DCE}|BookStoreApp.API\\BookStoreApp.API.csproj|solutionrelative:bookstoreapp.api\\bookstoreapp.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{09B0377A-2648-40EA-AC1F-33139E201DCE}|BookStoreApp.API\\BookStoreApp.API.csproj|c:\\users\\marco chavez vazquez\\documents\\git\\capacitacion blazor\\bookstoreapp\\bookstoreapp.api\\bookstoreapp.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{09B0377A-2648-40EA-AC1F-33139E201DCE}|BookStoreApp.API\\BookStoreApp.API.csproj|solutionrelative:bookstoreapp.api\\bookstoreapp.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{09B0377A-2648-40EA-AC1F-33139E201DCE}|BookStoreApp.API\\BookStoreApp.API.csproj|c:\\users\\marco chavez vazquez\\documents\\git\\capacitacion blazor\\bookstoreapp\\bookstoreapp.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{09B0377A-2648-40EA-AC1F-33139E201DCE}|BookStoreApp.API\\BookStoreApp.API.csproj|solutionrelative:bookstoreapp.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 132,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -66,119 +38,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "log-20240830.txt",
-              "DocumentMoniker": "C:\\Users\\Marco Chavez Vazquez\\Documents\\Git\\Capacitacion Blazor\\BookStoreApp\\BookStoreApp.API\\logs\\log-20240830.txt",
-              "RelativeDocumentMoniker": "BookStoreApp.API\\logs\\log-20240830.txt",
-              "ToolTip": "C:\\Users\\Marco Chavez Vazquez\\Documents\\Git\\Capacitacion Blazor\\BookStoreApp\\BookStoreApp.API\\logs\\log-20240830.txt",
-              "RelativeToolTip": "BookStoreApp.API\\logs\\log-20240830.txt",
-              "ViewState": "AQIAABUAAAAAAAAAAAAAABUAAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-08-30T16:13:41.774Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "BookStoreApp.API.http",
-              "DocumentMoniker": "C:\\Users\\Marco Chavez Vazquez\\Documents\\Git\\Capacitacion Blazor\\BookStoreApp\\BookStoreApp.API\\BookStoreApp.API.http",
-              "RelativeDocumentMoniker": "BookStoreApp.API\\BookStoreApp.API.http",
-              "ToolTip": "C:\\Users\\Marco Chavez Vazquez\\Documents\\Git\\Capacitacion Blazor\\BookStoreApp\\BookStoreApp.API\\BookStoreApp.API.http",
-              "RelativeToolTip": "BookStoreApp.API\\BookStoreApp.API.http",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2024-08-30T15:44:12.056Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "WeatherForecast.cs",
-              "DocumentMoniker": "C:\\Users\\Marco Chavez Vazquez\\Documents\\Git\\Capacitacion Blazor\\BookStoreApp\\BookStoreApp.API\\WeatherForecast.cs",
-              "RelativeDocumentMoniker": "BookStoreApp.API\\WeatherForecast.cs",
-              "ToolTip": "C:\\Users\\Marco Chavez Vazquez\\Documents\\Git\\Capacitacion Blazor\\BookStoreApp\\BookStoreApp.API\\WeatherForecast.cs",
-              "RelativeToolTip": "BookStoreApp.API\\WeatherForecast.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-30T15:45:10.531Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "OrigisOperacionesContext.cs",
+              "DocumentMoniker": "C:\\Users\\Marco Chavez Vazquez\\Documents\\Git\\Capacitacion Blazor\\BookStoreApp\\BookStoreApp.API\\Data\\OrigisOperacionesContext.cs",
+              "RelativeDocumentMoniker": "BookStoreApp.API\\Data\\OrigisOperacionesContext.cs",
+              "ToolTip": "C:\\Users\\Marco Chavez Vazquez\\Documents\\Git\\Capacitacion Blazor\\BookStoreApp\\BookStoreApp.API\\Data\\OrigisOperacionesContext.cs",
+              "RelativeToolTip": "BookStoreApp.API\\Data\\OrigisOperacionesContext.cs",
+              "ViewState": "AQIAAMUAAAAAAAAAAAAAAMUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T18:53:58.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Marco Chavez Vazquez\\Documents\\Git\\Capacitacion Blazor\\BookStoreApp\\BookStoreApp.API\\Program.cs",
               "RelativeDocumentMoniker": "BookStoreApp.API\\Program.cs",
               "ToolTip": "C:\\Users\\Marco Chavez Vazquez\\Documents\\Git\\Capacitacion Blazor\\BookStoreApp\\BookStoreApp.API\\Program.cs",
               "RelativeToolTip": "BookStoreApp.API\\Program.cs",
-              "ViewState": "AQIAABkAAAAAAAAAAAAAACMAAAAYAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-30T15:44:12.799Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Marco Chavez Vazquez\\Documents\\Git\\Capacitacion Blazor\\BookStoreApp\\BookStoreApp.API\\appsettings.json",
-              "RelativeDocumentMoniker": "BookStoreApp.API\\appsettings.json",
-              "ToolTip": "C:\\Users\\Marco Chavez Vazquez\\Documents\\Git\\Capacitacion Blazor\\BookStoreApp\\BookStoreApp.API\\appsettings.json",
-              "RelativeToolTip": "BookStoreApp.API\\appsettings.json",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAqwA4AAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-08-30T15:44:01.247Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "C:\\Users\\Marco Chavez Vazquez\\Documents\\Git\\Capacitacion Blazor\\BookStoreApp\\BookStoreApp.API\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "BookStoreApp.API\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "C:\\Users\\Marco Chavez Vazquez\\Documents\\Git\\Capacitacion Blazor\\BookStoreApp\\BookStoreApp.API\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "BookStoreApp.API\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAqwBoAAAAQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-30T15:42:58.624Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Users\\Marco Chavez Vazquez\\Documents\\Git\\Capacitacion Blazor\\BookStoreApp\\BookStoreApp.API\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "BookStoreApp.API\\appsettings.Development.json",
-              "ToolTip": "C:\\Users\\Marco Chavez Vazquez\\Documents\\Git\\Capacitacion Blazor\\BookStoreApp\\BookStoreApp.API\\appsettings.Development.json",
-              "RelativeToolTip": "BookStoreApp.API\\appsettings.Development.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAACAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-08-30T15:52:24.973Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\Marco Chavez Vazquez\\Documents\\Git\\Capacitacion Blazor\\BookStoreApp\\BookStoreApp.API\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "BookStoreApp.API\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\Marco Chavez Vazquez\\Documents\\Git\\Capacitacion Blazor\\BookStoreApp\\BookStoreApp.API\\Properties\\launchSettings.json",
-              "RelativeToolTip": "BookStoreApp.API\\Properties\\launchSettings.json",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-08-30T15:42:09.532Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "BookStoreApp.API",
-              "DocumentMoniker": "C:\\Users\\Marco Chavez Vazquez\\Documents\\Git\\Capacitacion Blazor\\BookStoreApp\\BookStoreApp.API\\BookStoreApp.API.csproj",
-              "RelativeDocumentMoniker": "BookStoreApp.API\\BookStoreApp.API.csproj",
-              "ToolTip": "C:\\Users\\Marco Chavez Vazquez\\Documents\\Git\\Capacitacion Blazor\\BookStoreApp\\BookStoreApp.API\\BookStoreApp.API.csproj",
-              "RelativeToolTip": "BookStoreApp.API\\BookStoreApp.API.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-08-30T15:41:03.146Z",
+              "WhenOpened": "2024-08-30T18:39:28.566Z",
               "EditorCaption": ""
             }
           ]

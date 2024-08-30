@@ -24,7 +24,7 @@ namespace BookStoreApp.API.Controllers
             _logger.LogInformation("Llamada desde el endpoint wather");
             try
             {
-                throw new Exception("Este es nuestro log de una exepcion de prueba");
+                //throw new Exception("Este es nuestro log de una exepcion de prueba");
                 return Enumerable.Range(1, 5).Select(index => new WeatherForecast
                 {
                     Date = DateOnly.FromDateTime(DateTime.Now.AddDays(index)),
