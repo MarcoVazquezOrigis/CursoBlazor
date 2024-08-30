@@ -1,0 +1,39 @@
+2024-08-30 10:07:22.330 -06:00 [INF] Now listening on: https://localhost:7127
+2024-08-30 10:07:22.424 -06:00 [INF] Now listening on: https://localhost:5285
+2024-08-30 10:07:22.429 -06:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-08-30 10:07:22.432 -06:00 [INF] Hosting environment: Development
+2024-08-30 10:07:22.433 -06:00 [INF] Content root path: C:\Users\Marco Chavez Vazquez\Documents\Git\Capacitacion Blazor\BookStoreApp\BookStoreApp.API
+2024-08-30 10:07:44.095 -06:00 [INF] Llamada desde el endpoint wather
+2024-08-30 10:07:44.250 -06:00 [ERR] Fatal error
+System.Exception: Este es nuestro log de una exepcion de prueba
+   at BookStoreApp.API.Controllers.WeatherForecastController.Get() in C:\Users\Marco Chavez Vazquez\Documents\Git\Capacitacion Blazor\BookStoreApp\BookStoreApp.API\Controllers\WeatherForecastController.cs:line 27
+2024-08-30 10:10:43.347 -06:00 [INF] Now listening on: https://localhost:7127
+2024-08-30 10:10:43.386 -06:00 [INF] Now listening on: https://localhost:5285
+2024-08-30 10:10:43.390 -06:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-08-30 10:10:43.392 -06:00 [INF] Hosting environment: Development
+2024-08-30 10:10:43.393 -06:00 [INF] Content root path: C:\Users\Marco Chavez Vazquez\Documents\Git\Capacitacion Blazor\BookStoreApp\BookStoreApp.API
+2024-08-30 10:10:54.059 -06:00 [INF] Llamada desde el endpoint wather
+2024-08-30 10:10:54.153 -06:00 [ERR] Fatal error
+System.Exception: Este es nuestro log de una exepcion de prueba
+   at BookStoreApp.API.Controllers.WeatherForecastController.Get() in C:\Users\Marco Chavez Vazquez\Documents\Git\Capacitacion Blazor\BookStoreApp\BookStoreApp.API\Controllers\WeatherForecastController.cs:line 27
+2024-08-30 10:11:01.068 -06:00 [ERR] An unhandled exception has occurred while executing the request.
+System.Exception: Este es nuestro log de una exepcion de prueba
+   at BookStoreApp.API.Controllers.WeatherForecastController.Get() in C:\Users\Marco Chavez Vazquez\Documents\Git\Capacitacion Blazor\BookStoreApp\BookStoreApp.API\Controllers\WeatherForecastController.cs:line 27
+   at lambda_method2(Closure, Object, Object[])
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncObjectResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
